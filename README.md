@@ -5,7 +5,7 @@
 - 📫 You can contact me via my <a href="https://www.amedd.me/" target="_blank" >portfolio</a> , or by mail ahmedmellouk@proton.me
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amedmell&show_icons=true&theme=radical)
 
 <!---
 amedmell/amedmell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

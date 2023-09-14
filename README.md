@@ -1,1 +1,1 @@
-- 📫 You can contact me via my <a href="https://www.amedd.me/" target="_blank" >portfolio</a> , or by mail ahmedmellouk@proton.me
+- 📫 You can contact me via my <a href="https://www.amedd.me/" target="_blank" >portfolio</a> , or by mail amedmellouk@gmail.com
